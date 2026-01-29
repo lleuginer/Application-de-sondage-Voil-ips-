@@ -1,6 +1,6 @@
-# ⛵ Application de Sondage & Dashboard Admin - Voyage Voilip's
+# ⛵ Application de Sondage & Dashboard Admin - Voyage Voil'ips
 
-Bienvenue sur le dépôt de l'application de gestion de sondage pour le voyage **Voilip's**. Ce projet est une application développée en Python, permettant aux étudiants de voter pour leurs préférences de voyage et aux administrateurs (membre du bureau de l'association VOIL'IPS) de visualiser les statistiques et gérer les communications.
+Bienvenue sur le dépôt de l'application de gestion de sondage pour le voyage **Voil'ips**. Ce projet est une application développée en Python, permettant aux étudiants de voter pour leurs préférences de voyage et aux administrateurs (membre du bureau de l'association VOIL'IPS) de visualiser les statistiques et gérer les communications.
 
 ## 📋 Description :
 
@@ -56,6 +56,8 @@ Voici un aperçu des fichiers principaux :
 * `dashboard3.py` : Interface d'envoi d'e-mails.
 * `Sondage.csv` : Base de données stockant les réponses des étudiants.
 * `Mail.csv` : Liste des e-mails des étudiants.
+* `song` : Dossier de sons d'interface utilisable.
+* `assets` : Dossier des différentes images utilisées.
 
 ## 🚀 Installation et Utilisation
 
