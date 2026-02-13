@@ -90,7 +90,25 @@ Pour tester l'interface administrateur, utilisez les identifiants par défaut (c
 
 ## 📸 Aperçu
 
-*(Ici, je te conseille d'ajouter des captures d'écran de ton application : la page d'accueil, le formulaire et les graphiques du dashboard. Tu peux glisser les images dans ton repo et utiliser la syntaxe `![Description](lien_image.png)`)*
+Application Guy :
+<img width="2487" height="1627" alt="image" src="https://github.com/user-attachments/assets/23d4ed12-6921-4c7a-b42c-2d9d55fb0ef1" />
+
+Sondage : 
+<img width="2990" height="1825" alt="image" src="https://github.com/user-attachments/assets/8e4bfe5f-a51d-479d-9380-69fa4c1ca9ca" />
+
+Connexion Admin : 
+<img width="1442" height="1880" alt="image" src="https://github.com/user-attachments/assets/5ea46583-ee51-4e46-9bba-27f8076a265a" />
+
+Dashboard 1 : 
+<img width="3495" height="1942" alt="image" src="https://github.com/user-attachments/assets/c4d1a49a-da40-4e1b-8fe1-4fc076a3da61" />
+
+Dashboard 2 : 
+<img width="3497" height="1945" alt="image" src="https://github.com/user-attachments/assets/87a10843-e224-4c39-b4e6-527a4c1bad60" />
+
+Dashboard 3 : 
+<img width="3497" height="1942" alt="image" src="https://github.com/user-attachments/assets/f014dbd4-39de-446c-9eae-0821452e827b" />
+
+
 
 ## 🤝 Auteurs
 
